@@ -12,7 +12,7 @@
     "client": "cd client && npm start"
   },
   "keywords": [],
-  "author": "",
+  "author": "Tyler",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
